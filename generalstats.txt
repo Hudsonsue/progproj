@@ -1,27 +1,27 @@
-             pref         CAO
-count  100.000000  100.000000
-mean     3.420000  264.010000
-std      2.531339   51.599369
-min      1.000000  167.000000
-25%      1.000000  218.750000
-50%      2.000000  265.500000
-75%      5.000000  305.250000
-max      9.000000  349.000000
+             pref
+count  100.000000
+mean     3.330000
+std      2.605569
+min      1.000000
+25%      1.000000
+50%      2.000000
+75%      5.000000
+max      9.000000
 
 
 
-        full_part        pref         CAO Male_Female        Date of Birth
-count         100  100.000000  100.000000         100                  100
-unique          3         NaN         NaN           2                    1
-top     full time         NaN         NaN      female  2012-02-13 00:00:00
-freq           77         NaN         NaN          51                  100
-first         NaN         NaN         NaN         NaN  2012-02-13 00:00:00
-last          NaN         NaN         NaN         NaN  2012-02-13 00:00:00
-mean          NaN    3.420000  264.010000         NaN                  NaN
-std           NaN    2.531339   51.599369         NaN                  NaN
-min           NaN    1.000000  167.000000         NaN                  NaN
-25%           NaN    1.000000  218.750000         NaN                  NaN
-50%           NaN    2.000000  265.500000         NaN                  NaN
-75%           NaN    5.000000  305.250000         NaN                  NaN
-max           NaN    9.000000  349.000000         NaN                  NaN
-Run date and time:  Date: 20-11-18    Time: 20-01
+        full_part        pref    CAO Male_Female        Date of Birth
+count         100  100.000000  100.0         100                  100
+unique          3         NaN   51.0           2                   92
+top     full time         NaN  999.0      female  1998-04-10 00:00:00
+freq           80         NaN   50.0          58                    4
+first         NaN         NaN    NaN         NaN  1941-12-29 00:00:00
+last          NaN         NaN    NaN         NaN  2000-07-05 00:00:00
+mean          NaN    3.330000    NaN         NaN                  NaN
+std           NaN    2.605569    NaN         NaN                  NaN
+min           NaN    1.000000    NaN         NaN                  NaN
+25%           NaN    1.000000    NaN         NaN                  NaN
+50%           NaN    2.000000    NaN         NaN                  NaN
+75%           NaN    5.000000    NaN         NaN                  NaN
+max           NaN    9.000000    NaN         NaN                  NaN
+Run date and time:  Date: 20-11-18    Time: 21-35
