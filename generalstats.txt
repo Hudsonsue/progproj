@@ -1,27 +1,42 @@
-             pref         CAO
-count  100.000000  100.000000
-mean     3.810000  390.670000
-std      2.680626  141.510328
-min      1.000000  160.000000
-25%      1.000000  260.000000
-50%      3.000000  422.500000
-75%      6.000000  525.000000
-max      9.000000  549.000000
+             CAO_ID        pref         CAO
+count  1.000000e+02  100.000000  100.000000
+mean   1.604975e+07    3.260000  244.600000
+std    2.818488e+04    2.456161   53.756278
+min    1.600117e+07    1.000000  160.000000
+25%    1.602450e+07    1.000000  200.000000
+50%    1.604862e+07    3.000000  235.000000
+75%    1.607492e+07    5.000000  296.250000
+max    1.609647e+07    9.000000  340.000000
 
 
 
-        full_part        pref         CAO Male_Female        Date of Birth
-count         100  100.000000  100.000000         100                  100
-unique          3         NaN         NaN           2                   93
-top     full time         NaN         NaN      female  1998-03-01 00:00:00
-freq           85         NaN         NaN          54                    3
-first         NaN         NaN         NaN         NaN  1998-01-02 00:00:00
-last          NaN         NaN         NaN         NaN  2000-09-18 00:00:00
-mean          NaN    3.810000  390.670000         NaN                  NaN
-std           NaN    2.680626  141.510328         NaN                  NaN
-min           NaN    1.000000  160.000000         NaN                  NaN
-25%           NaN    1.000000  260.000000         NaN                  NaN
-50%           NaN    3.000000  422.500000         NaN                  NaN
-75%           NaN    6.000000  525.000000         NaN                  NaN
-max           NaN    9.000000  549.000000         NaN                  NaN
-Run date and time:  Date: 28-11-18    Time: 22-10
+              CAO_ID Study_Mode        pref         CAO Male_Female  \
+count   1.000000e+02        100  100.000000  100.000000         100   
+unique           NaN          3         NaN         NaN           2   
+top              NaN  full time         NaN         NaN        male   
+freq             NaN         75         NaN         NaN          57   
+first            NaN        NaN         NaN         NaN         NaN   
+last             NaN        NaN         NaN         NaN         NaN   
+mean    1.604975e+07        NaN    3.260000  244.600000         NaN   
+std     2.818488e+04        NaN    2.456161   53.756278         NaN   
+min     1.600117e+07        NaN    1.000000  160.000000         NaN   
+25%     1.602450e+07        NaN    1.000000  200.000000         NaN   
+50%     1.604862e+07        NaN    3.000000  235.000000         NaN   
+75%     1.607492e+07        NaN    5.000000  296.250000         NaN   
+max     1.609647e+07        NaN    9.000000  340.000000         NaN   
+
+              Date of Birth Mature student  
+count                   100            100  
+unique                   94              2  
+top     1997-06-01 00:00:00     NOT_MATURE  
+freq                      2             89  
+first   1941-07-27 00:00:00            NaN  
+last    2000-03-12 00:00:00            NaN  
+mean                    NaN            NaN  
+std                     NaN            NaN  
+min                     NaN            NaN  
+25%                     NaN            NaN  
+50%                     NaN            NaN  
+75%                     NaN            NaN  
+max                     NaN            NaN  
+Run date and time:  Date: 29-11-18    Time: 22-37
