@@ -1,42 +1,42 @@
-             CAO_ID        pref         CAO
-count  1.000000e+02  100.000000  100.000000
-mean   1.605022e+07    3.340000  247.600000
-std    2.646112e+04    2.400421   54.302185
-min    1.600169e+07    1.000000  160.000000
-25%    1.603100e+07    1.000000  200.000000
-50%    1.605202e+07    2.000000  245.000000
-75%    1.606977e+07    5.000000  291.250000
-max    1.609997e+07    9.000000  345.000000
+             CAO_ID         pref          CAO
+count  1.000000e+03  1000.000000  1000.000000
+mean   1.605064e+07     3.429000   248.525000
+std    2.906370e+04     2.524546    56.386868
+min    1.600005e+07     1.000000   160.000000
+25%    1.602589e+07     1.000000   195.000000
+50%    1.605117e+07     3.000000   245.000000
+75%    1.607636e+07     5.000000   300.000000
+max    1.609996e+07     9.000000   345.000000
 
 
 
-             Term        CAO_ID Study_Mode        pref         CAO  Gender  \
-count         100  1.000000e+02        100  100.000000  100.000000     100   
-unique          1           NaN          3         NaN         NaN       2   
-top     2016/2017           NaN  full time         NaN         NaN  female   
-freq          100           NaN         82         NaN         NaN      51   
-first         NaN           NaN        NaN         NaN         NaN     NaN   
-last          NaN           NaN        NaN         NaN         NaN     NaN   
-mean          NaN  1.605022e+07        NaN    3.340000  247.600000     NaN   
-std           NaN  2.646112e+04        NaN    2.400421   54.302185     NaN   
-min           NaN  1.600169e+07        NaN    1.000000  160.000000     NaN   
-25%           NaN  1.603100e+07        NaN    1.000000  200.000000     NaN   
-50%           NaN  1.605202e+07        NaN    2.000000  245.000000     NaN   
-75%           NaN  1.606977e+07        NaN    5.000000  291.250000     NaN   
-max           NaN  1.609997e+07        NaN    9.000000  345.000000     NaN   
+             Term        CAO_ID Study_Mode         pref          CAO Gender  \
+count        1000  1.000000e+03       1000  1000.000000  1000.000000   1000   
+unique          1           NaN          3          NaN          NaN      2   
+top     2016/2017           NaN  full time          NaN          NaN   male   
+freq         1000           NaN        791          NaN          NaN    504   
+first         NaN           NaN        NaN          NaN          NaN    NaN   
+last          NaN           NaN        NaN          NaN          NaN    NaN   
+mean          NaN  1.605064e+07        NaN     3.429000   248.525000    NaN   
+std           NaN  2.906370e+04        NaN     2.524546    56.386868    NaN   
+min           NaN  1.600005e+07        NaN     1.000000   160.000000    NaN   
+25%           NaN  1.602589e+07        NaN     1.000000   195.000000    NaN   
+50%           NaN  1.605117e+07        NaN     3.000000   245.000000    NaN   
+75%           NaN  1.607636e+07        NaN     5.000000   300.000000    NaN   
+max           NaN  1.609996e+07        NaN     9.000000   345.000000    NaN   
 
-              Date of Birth Mature student  
-count                   100            100  
-unique                   91              2  
-top     1997-03-06 00:00:00     NOT_MATURE  
-freq                      2             89  
-first   1943-10-19 00:00:00            NaN  
-last    2000-06-26 00:00:00            NaN  
-mean                    NaN            NaN  
-std                     NaN            NaN  
-min                     NaN            NaN  
-25%                     NaN            NaN  
-50%                     NaN            NaN  
-75%                     NaN            NaN  
-max                     NaN            NaN  
-Run date and time:  Date: 01-12-18    Time: 21-15
+              Date of Birth Mature student progressed  
+count                  1000           1000       1000  
+unique                  599              2          2  
+top     1998-03-22 00:00:00     NOT_MATURE         OK  
+freq                      7            890        762  
+first   1941-04-24 00:00:00            NaN        NaN  
+last    2000-07-31 00:00:00            NaN        NaN  
+mean                    NaN            NaN        NaN  
+std                     NaN            NaN        NaN  
+min                     NaN            NaN        NaN  
+25%                     NaN            NaN        NaN  
+50%                     NaN            NaN        NaN  
+75%                     NaN            NaN        NaN  
+max                     NaN            NaN        NaN  
+Run date and time:  Date: 04-12-18    Time: 20-44
