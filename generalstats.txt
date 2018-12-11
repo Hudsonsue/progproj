@@ -1,42 +1,21 @@
-             CAO_ID        pref         CAO
-count  2.000000e+02  200.000000  200.000000
-mean   1.605084e+07    3.540000  224.250000
-std    2.905373e+04    2.555593   39.920618
-min    1.600036e+07    1.000000  160.000000
-25%    1.602704e+07    1.000000  190.000000
-50%    1.605265e+07    3.000000  220.000000
-75%    1.607452e+07    5.000000  260.000000
-max    1.609945e+07    9.000000  295.000000
+          Term    CAO_ID level   discipline  pref gender Date of Birth  \
+3    2016/2017  16089332     7  Engineering     3   male    1998-07-12   
+37   2016/2017  16020564     7  Engineering     1   male    2000-09-06   
+47   2016/2017  16031420     7  Engineering     1   male    1997-02-25   
+69   2016/2017  16004303     7  Engineering     7   male    1998-05-17   
+122  2016/2017  16084643     7          ict     3   male    1997-02-10   
+123  2016/2017  16039144     6          ict     4   male    1998-03-08   
+148  2016/2017  16010352     7  Engineering     2   male    1997-03-20   
+
+    Mature student  cao risk_status  
+3       NOT_MATURE  240     at risk  
+37      NOT_MATURE  225     at risk  
+47      NOT_MATURE  275     at risk  
+69      NOT_MATURE  255     at risk  
+122     NOT_MATURE  295     at risk  
+123     NOT_MATURE  275     at risk  
+148     NOT_MATURE  250     at risk  
 
 
 
-             Term        CAO_ID        pref         CAO Gender  \
-count         200  2.000000e+02  200.000000  200.000000    200   
-unique          1           NaN         NaN         NaN      2   
-top     2016/2017           NaN         NaN         NaN   male   
-freq          200           NaN         NaN         NaN    110   
-first         NaN           NaN         NaN         NaN    NaN   
-last          NaN           NaN         NaN         NaN    NaN   
-mean          NaN  1.605084e+07    3.540000  224.250000    NaN   
-std           NaN  2.905373e+04    2.555593   39.920618    NaN   
-min           NaN  1.600036e+07    1.000000  160.000000    NaN   
-25%           NaN  1.602704e+07    1.000000  190.000000    NaN   
-50%           NaN  1.605265e+07    3.000000  220.000000    NaN   
-75%           NaN  1.607452e+07    5.000000  260.000000    NaN   
-max           NaN  1.609945e+07    9.000000  295.000000    NaN   
-
-              Date of Birth Mature student level discipine risk_status  
-count                   200            200   200       200         200  
-unique                  186              2     4         4           2  
-top     1997-02-10 00:00:00     NOT_MATURE     8     other          OK  
-freq                      3            160   118        94         191  
-first   1942-03-07 00:00:00            NaN   NaN       NaN         NaN  
-last    2000-07-01 00:00:00            NaN   NaN       NaN         NaN  
-mean                    NaN            NaN   NaN       NaN         NaN  
-std                     NaN            NaN   NaN       NaN         NaN  
-min                     NaN            NaN   NaN       NaN         NaN  
-25%                     NaN            NaN   NaN       NaN         NaN  
-50%                     NaN            NaN   NaN       NaN         NaN  
-75%                     NaN            NaN   NaN       NaN         NaN  
-max                     NaN            NaN   NaN       NaN         NaN  
-Run date and time:  Date: 09-12-18    Time: 20-47
+Run date and time:  Date: 11-12-18    Time: 16-46
