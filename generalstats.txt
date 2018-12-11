@@ -1,21 +1,17 @@
           Term    CAO_ID level   discipline  pref gender Date of Birth  \
-3    2016/2017  16089332     7  Engineering     3   male    1998-07-12   
-37   2016/2017  16020564     7  Engineering     1   male    2000-09-06   
-47   2016/2017  16031420     7  Engineering     1   male    1997-02-25   
-69   2016/2017  16004303     7  Engineering     7   male    1998-05-17   
-122  2016/2017  16084643     7          ict     3   male    1997-02-10   
-123  2016/2017  16039144     6          ict     4   male    1998-03-08   
-148  2016/2017  16010352     7  Engineering     2   male    1997-03-20   
+56   2016/2017  16005921     7  Engineering     7   male    1997-05-21   
+110  2016/2017  16023878     7  Engineering     2   male    1997-04-05   
+148  2016/2017  16053175     7  Engineering     1   male    1999-12-11   
+152  2016/2017  16063654     7  Engineering     5   male    1995-07-06   
+165  2016/2017  16097047     7  Engineering     4   male    1997-04-20   
 
     Mature student  cao risk_status  
-3       NOT_MATURE  240     at risk  
-37      NOT_MATURE  225     at risk  
-47      NOT_MATURE  275     at risk  
-69      NOT_MATURE  255     at risk  
-122     NOT_MATURE  295     at risk  
-123     NOT_MATURE  275     at risk  
-148     NOT_MATURE  250     at risk  
+56      NOT_MATURE  270     at risk  
+110     NOT_MATURE  210     at risk  
+148     NOT_MATURE  295     at risk  
+152     NOT_MATURE  245     at risk  
+165     NOT_MATURE  225     at risk  
 
 
 
-Run date and time:  Date: 11-12-18    Time: 16-46
+Run date and time:  Date: 11-12-18    Time: 22-19
