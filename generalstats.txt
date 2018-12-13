@@ -1,17 +1,29 @@
           Term    CAO_ID level   discipline  pref gender Date of Birth  \
-56   2016/2017  16005921     7  Engineering     7   male    1997-05-21   
-110  2016/2017  16023878     7  Engineering     2   male    1997-04-05   
-148  2016/2017  16053175     7  Engineering     1   male    1999-12-11   
-152  2016/2017  16063654     7  Engineering     5   male    1995-07-06   
-165  2016/2017  16097047     7  Engineering     4   male    1997-04-20   
+13   2016/2017  16091146     7  Engineering     8   male    1996-07-01   
+25   2016/2017  16086242     7          ict     1   male    1998-02-03   
+29   2016/2017  16032877     7  Engineering     1   male    1995-01-21   
+47   2016/2017  16006503     6  Engineering     2   male    1998-07-13   
+49   2016/2017  16080606     7  Engineering     4   male    1997-03-22   
+108  2016/2017  16091303     7  Engineering     3   male    1997-05-09   
+132  2016/2017  16049838     7  Engineering     5   male    1998-03-09   
+133  2016/2017  16036485     7  Engineering     3   male    1998-01-20   
+140  2016/2017  16040029     7  Engineering     1   male    1997-05-03   
+174  2016/2017  16027516     7  Engineering     1   male    1998-04-18   
+196  2016/2017  16045448     7  Engineering     1   male    1998-06-06   
 
     Mature student  cao risk_status  
-56      NOT_MATURE  270     at risk  
-110     NOT_MATURE  210     at risk  
-148     NOT_MATURE  295     at risk  
-152     NOT_MATURE  245     at risk  
-165     NOT_MATURE  225     at risk  
+13      NOT_MATURE  250     at risk  
+25      NOT_MATURE  265     at risk  
+29      NOT_MATURE  275     at risk  
+47      NOT_MATURE  255     at risk  
+49      NOT_MATURE  260     at risk  
+108     NOT_MATURE  265     at risk  
+132     NOT_MATURE  245     at risk  
+133     NOT_MATURE  190     at risk  
+140     NOT_MATURE  195     at risk  
+174     NOT_MATURE  270     at risk  
+196     NOT_MATURE  220     at risk  
 
 
 
-Run date and time:  Date: 11-12-18    Time: 22-19
+Run date and time:  Date: 13-12-18    Time: 16-32
