@@ -1,17 +1,37 @@
           Term    CAO_ID level   discipline  pref gender Date of Birth  \
-4    2016/2017  16038258     7  Engineering     1   male    1998-05-03   
-34   2016/2017  16046245     7  Engineering     4   male    1996-01-29   
-60   2016/2017  16017141     7  Engineering     9   male    1994-06-07   
-130  2016/2017  16073250     7  Engineering     2   male    1998-02-06   
-152  2016/2017  16027869     7  Engineering     1   male    1997-04-19   
+4    2016/2017  16091198     7  Engineering     2   male    1998-03-27   
+5    2016/2017  16009135     7  Engineering     2   male    1996-07-15   
+9    2016/2017  16012850     7  Engineering     3   male    1998-04-16   
+12   2016/2017  16072997     7  Engineering     1   male    1996-05-23   
+19   2016/2017  16009119     6  Engineering     3   male    1997-02-08   
+47   2016/2017  16070733     7  Engineering     1   male    1997-04-13   
+93   2016/2017  16058519     7          ict     8   male    1998-07-17   
+114  2016/2017  16021733     7  Engineering     3   male    1996-05-10   
+116  2016/2017  16080873     6  Engineering     1   male    1998-07-05   
+120  2016/2017  16041146     7  Engineering     5   male    1997-02-21   
+121  2016/2017  16097793     7  Engineering     4   male    1998-05-23   
+145  2016/2017  16013099     7  Engineering     4   male    1997-06-03   
+156  2016/2017  16041656     7  Engineering     8   male    1997-03-24   
+190  2016/2017  16018531     7          ict     1   male    1998-06-05   
+192  2016/2017  16007789     7  Engineering     1   male    1997-05-31   
 
     Mature student  cao risk_status  
-4       NOT_MATURE  175     at risk  
-34      NOT_MATURE  225     at risk  
-60      NOT_MATURE  195     at risk  
-130     NOT_MATURE  180     at risk  
-152     NOT_MATURE  185     at risk  
+4       NOT_MATURE  195     at risk  
+5       NOT_MATURE  185     at risk  
+9       NOT_MATURE  210     at risk  
+12      NOT_MATURE  285     at risk  
+19      NOT_MATURE  270     at risk  
+47      NOT_MATURE  255     at risk  
+93      NOT_MATURE  260     at risk  
+114     NOT_MATURE  210     at risk  
+116     NOT_MATURE  250     at risk  
+120     NOT_MATURE  245     at risk  
+121     NOT_MATURE  180     at risk  
+145     NOT_MATURE  295     at risk  
+156     NOT_MATURE  275     at risk  
+190     NOT_MATURE  290     at risk  
+192     NOT_MATURE  220     at risk  
 
 
 
-Run date and time:  Date: 14-12-18    Time: 20-39
+Run date and time:  Date: 14-12-18    Time: 22-31
