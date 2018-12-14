@@ -1,4 +1,4 @@
-# ## Project Programming for Data Analytics 2018
+# ## Project Programming for Data Analysis 2018
 
 This is a Jupyter Notebook in which I have simulated a dataset of typical student data in the Irish Higher Education Sector. 
 
