@@ -9,3 +9,7 @@ The submission is for Project 2018 for the Module **Programming for Data Analyti
 The notebook is called **Project_Programming_Data_Analytics.ipynb** and to run it you will ideally have [Jupyter](https://jupyter.org/)installed on your machine. You can install this via the [Anaconda](https://www.anaconda.com/) python Distribution.  
 
 It is in programming language - Python 3.7.0.For some information about Python and it's uses see the wikipedia page, [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
+The project instructions can be found in the pdf called project.pdf within this repository.
+
+**Please note that all data in this notebook is simulated and not actual**
